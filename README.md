@@ -1,5 +1,5 @@
 # simple-js-darts
-JavaScript Browser Darts Game <br/>
+JavaScript Browser Darts Game ([click for a live demo here](http://htmlpreview.github.io/?https://github.com/luke-b/simple-js-darts/blob/master/index.html))<br/>
 <img src="https://raw.githubusercontent.com/luke-b/simple-js-darts/master/screen1.png" /><br/>
 This project started it's life as a Proof-of-concept demonstrator <br/>
 which should test the casual gaming capabilities of an O2 TV settop box <br/>
